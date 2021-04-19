@@ -1,0 +1,38 @@
+#Constants {
+    includeNativeBool: true;
+}
+
+Images{
+    background-image: url(images/placeholder.png);
+    cn1-source-dpi: 0;
+}
+
+PrimaryColor{
+    color: #69bcfc;
+}
+
+SecondaryColor{
+    color: #f0a164;
+}
+
+TertiaryColor{
+    color: #3c4043;
+}
+
+HeaderFont{
+    font-family: "native:MainBold";
+    font-size: 4mm;
+}
+
+TextFont{
+    font-family: "native:MainRegular";
+    font-size: 3mm;
+}
+
+LoginButton{
+    background-color: red;
+}
+
+
+
+

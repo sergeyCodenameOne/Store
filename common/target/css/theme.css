@@ -1,0 +1,42 @@
+
+/* C:\Users\serge\Desktop\Work\GitHub-repo\Store\common\src\main\css\theme.css */
+#Constants {
+    includeNativeBool: true;
+}
+
+Images{
+    background-image: url("cn1-merged-files/7144fa4e8698fc9eba8eba3a64d9009b/images/placeholder.png");
+    cn1-source-dpi: 0;
+}
+
+PrimaryColor{
+    color: #69bcfc;
+}
+
+SecondaryColor{
+    color: #f0a164;
+}
+
+TertiaryColor{
+    color: #3c4043;
+}
+
+HeaderFont{
+    font-family: "native:MainBold";
+    font-size: 4mm;
+}
+
+TextFont{
+    font-family: "native:MainRegular";
+    font-size: 3mm;
+}
+
+LoginButton{
+    background-color: red;
+}
+
+
+
+
+
+/* end C:\Users\serge\Desktop\Work\GitHub-repo\Store\common\src\main\css\theme.css*/

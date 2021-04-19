@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/store.iml" filepath="$PROJECT_DIR$/store.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Store.iml" filepath="$PROJECT_DIR$/.idea/Store.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cn1libs/CodeRAD/store-CodeRAD.iml" filepath="$PROJECT_DIR$/cn1libs/CodeRAD/store-CodeRAD.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cn1libs/store-cn1libs.iml" filepath="$PROJECT_DIR$/cn1libs/store-cn1libs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/store-common.iml" filepath="$PROJECT_DIR$/common/store-common.iml" />
     </modules>
   </component>
 </project>
